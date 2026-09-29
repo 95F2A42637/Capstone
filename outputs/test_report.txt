@@ -1,0 +1,15 @@
+Explainable AI Image Authenticity Verification
+============================================================
+
+Test Accuracy: 96.00%
+
+Classification Report
+------------------------------------------------------------
+              precision    recall  f1-score   support
+
+   ai_edited       0.95      0.97      0.96      1000
+   authentic       0.97      0.95      0.96      1000
+
+    accuracy                           0.96      2000
+   macro avg       0.96      0.96      0.96      2000
+weighted avg       0.96      0.96      0.96      2000
